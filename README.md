@@ -55,7 +55,15 @@ To use the YouTube API, you need to set up your RapidAPI key. Follow these steps
 
  ## Screenshots
  Include some screenshots of your project here to showcase its features and UI.
-"C:\Users\sopan\OneDrive\Pictures\Screenshots\Screenshot 2024-07-21 154928.png" 
+
+ 
+ **Home page**
+!["C:\Users\sopan\OneDrive\Pictures\Screenshots\Screenshot 2024-07-21 154928.png" ](https://github.com/Sopan7654/Youtube-Clone/blob/main/public/Screenshot%202024-07-21%20154928.png)
+
+
+!["C:\Users\sopan\OneDrive\Pictures\Screenshots\Screenshot 2024-07-21 154648.png" ](https://github.com/Sopan7654/Youtube-Clone/blob/main/public/Screenshot%202024-07-21%20154648.png)
+
+
 
 ## Technologies Used
 - **Vite**: Fast and optimized development build tool.

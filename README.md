@@ -24,7 +24,7 @@ This project is a YouTube clone built using Vite and React. It utilizes the Rapi
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/Sopan7654/Youtube-Clone.git
+   git clone gh repo clone Sopan7654/Youtube-Clone
    ```
 2. Navigate to the project directory.
    ```bash
